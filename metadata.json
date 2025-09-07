@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Maker",
+  "description": "An interactive story maker that uses AI to generate new images and text based on user prompts, creating a unique visual narrative page by page.",
+  "requestFramePermissions": []
+}
